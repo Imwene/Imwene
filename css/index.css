@@ -1373,6 +1373,7 @@ For devices with smaller width like mobile phone
         display: none;
     }
     .header-image{
+        display:none;
         float: right;
         height: auto;
         width: 0%;   
